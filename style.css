@@ -14,3 +14,10 @@
     position: relative;
     top: 150px;
 }
+#block{
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    top: 130px;
+    left: 480px;
+}
